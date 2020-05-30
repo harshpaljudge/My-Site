@@ -1,0 +1,46 @@
+body{margin: 0; text-align: center;font-family: 'Merriweather', serif;color: #40514E;}
+h1{margin: 50px auto 0 auto;font-family: 'Sacramento', cursive;font-size: 5.625rem;color: #d92027}
+h2{font-family: 'Montserrat', sans-serif;font-size: 2.3rem;color: #d92027;}
+h3{font-family: 'Montserrat', sans-serif;color: #f37121;line-height: normal;}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  margin: 100px auto;
+}
+a{margin:10px 20px;text-decoration: none;}
+a:hover{color: white;}
+.top-container {background-color: #fc9d9d;position:relative;padding-top: 100px;}
+.bottom-container{color: black;background-color: #fc9d9d;padding: 50px 0 20px;}
+.touch{margin-bottom: 50px;}
+.contact-me{color: #d92027;}
+.copyright{color: white;font-size: 0.75rem;padding: 20px 0;}
+.footer-link{color:#f37121}
+.top-cloud{position: absolute;right: 300px;top: 50px;}
+.bottem-cloud{position: absolute;left: 300px;bottom: 300px;}
+.skill-row{ width: 50% ;margin: 50px auto 100px auto;text-align: left;line-height:2;}
+.coding{width: 25%;float: left;margin-right: 30px;}
+.fitness{width: 25%;float: right;margin-left: 30px;}
+.myButton {
+	box-shadow:inset 0 0 0 -2px #c74e22;
+	background:linear-gradient(to bottom, #cf3f1b 5%, #ba1717 100%);
+	background-color:#cf3f1b;
+	border-radius:8px;
+	border:2px solid #941212;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat',sans-serif;
+	font-size:17px;
+	font-weight:bold;
+	padding:11px 27px;
+	text-decoration:none;
+	text-shadow:0 0 0 #a6571b;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ba1717 5%, #cf3f1b 100%);
+	background-color:#ba1717;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
